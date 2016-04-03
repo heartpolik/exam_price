@@ -4,7 +4,7 @@
 #include <cstdlib>
 #include <fstream>
 
-#define href "d:\\projects\\clion\\pricelist\\price.txt"
+#define href "d:\\projects\\clion\\pricelist\\price.txt"  //address of file with data
 
 using namespace std;
 
